@@ -1,0 +1,340 @@
+[
+    {
+        "id": "L001",
+        "product_title": "Dell XPS 15",
+        "product_image": "https://i.ibb.co.com/WVL4zG2/lap-1.jpg",
+        "category": "Laptops ",
+        "price": 1500,
+        "description": "A powerful laptop with a 15.6-inch display and Intel i7 processor.",
+        "specification": [
+            "15.6-inch FHD+ display",
+            "Intel Core i7-11800H",
+            "16GB RAM",
+            "512GB SSD",
+            "NVIDIA GeForce RTX 3050"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "id": "L002",
+        "product_title": "MacBook Pro 14",
+        "product_image": "https://i.ibb.co.com/tYf1qY3/lap-2.jpg",
+        "category": "Laptops ",
+        "price": 2000,
+        "description": "A high-performance laptop with Apple's M1 Pro chip.",
+        "specification": [
+            "14-inch Liquid Retina XDR display",
+            "Apple M1 Pro chip",
+            "16GB RAM",
+            "1TB SSD",
+            "Thunderbolt 4 ports"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "id": "L003",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/TvVJSYr/lap-3.jpg",
+        "category": "Laptops",
+        "price": 1300,
+        "description": "A versatile laptop with a 360-degree hinge and touchscreen.",
+        "specification": [
+            "13.3-inch FHD display",
+            "Intel Core i5-1135G7",
+            "8GB RAM",
+            "512GB SSD",
+            "Intel Iris Xe Graphics"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "id": "L004",
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://i.ibb.co.com/8625Qhd/lap-4.jpg",
+        "category": "Laptops",
+        "price": 1800,
+        "description": "A business laptop with exceptional build quality and performance.",
+        "specification": [
+            "14-inch FHD display",
+            "Intel Core i7-1165G7",
+            "16GB RAM",
+            "1TB SSD",
+            "Fingerprint Reader"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "id": "L005",
+        "product_title": "ASUS ZenBook 13",
+        "product_image": "https://i.ibb.co.com/BfksYM7/lap-5.jpg",
+        "category": "Laptops",
+        "price": 900,
+        "description": "Compact and lightweight with a stunning OLED display.",
+        "specification": [
+            "13.3-inch OLED FHD display",
+            "AMD Ryzen 7 5800U",
+            "16GB RAM",
+            "512GB SSD",
+            "Wi-Fi 6 support"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "id": "L006",
+        "product_title": "Microsoft Surface Laptop 4",
+        "product_image": "https://i.ibb.co.com/NWPvhWT/lap-6.webp",
+        "category": "Laptops",
+        "price": 1400,
+        "description": "A sleek and powerful laptop with a PixelSense touchscreen.",
+        "specification": [
+            "13.5-inch PixelSense display",
+            "Intel Core i5-1135G7",
+            "8GB RAM",
+            "512GB SSD",
+            "Dolby Atmos audio"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "id": "P001",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/ZLNRJTw/ph-1.jpgs",
+        "category": "Phones",
+        "price": 1300,
+        "description": "A premium smartphone with a large display and impressive camera.",
+        "specification": [
+            "6.8-inch QHD+ display",
+            "Snapdragon 8 Gen 2",
+            "108MP quad-camera",
+            "5000mAh battery",
+            "Stylus support"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "id": "P002",
+        "product_title": "Google Pixel 7 Pro",
+        "product_image": "https://i.ibb.co.com/WypvYP3/ph-2.jpg",
+        "category": "Phones ",
+        "price": 899,
+        "description": "A smartphone with Google's latest AI and camera technology.",
+        "specification": [
+            "6.7-inch QHD+ OLED display",
+            "Google Tensor G2",
+            "50MP triple-camera",
+            "5000mAh battery",
+            "Titan M2 security"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "id": "P003",
+        "product_title": "OnePlus 11",
+        "product_image": "https://i.ibb.co.com/JRZtLQZ/ph-3.jpg",
+        "category": "Phones",
+        "price": 700,
+        "description": "A flagship killer with high-end specs at an affordable price.",
+        "specification": [
+            "6.5-inch AMOLED display",
+            "Snapdragon 8 Gen 1",
+            "48MP quad-camera",
+            "4500mAh battery",
+            "120Hz refresh rate"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "id": "P004",
+        "product_title": "Sony Xperia 1 IV",
+        "product_image": "https://i.ibb.co.com/GJ2p761/ph-4.webp",
+        "category": "Phones",
+        "price": 1200,
+        "description": "A premium smartphone with 4K OLED display and pro-grade camera.",
+        "specification": [
+            "6.5-inch 4K HDR OLED display",
+            "Snapdragon 8 Gen 1",
+            "12MP quad-camera",
+            "5000mAh battery",
+            "Hi-Res audio"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "id": "P005",
+        "product_title": "Motorola Edge 40 Pro",
+        "product_image": "https://i.ibb.co.com/tcswcWd/ph-5.webp",
+        "category": "Phones",
+        "price": 999,
+        "description": "An all-round smartphone with excellent display and battery life.",
+        "specification": [
+            "6.7-inch FHD+ display",
+            "Snapdragon 8 Gen 1",
+            "108MP triple-camera",
+            "4500mAh battery",
+            "Fast charging"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "id": "P006",
+        "product_title": "Huawei P60 Pro",
+        "product_image": "https://i.ibb.co.com/7y0H9hn/ph-6.jpg",
+        "category": "Phones",
+        "price": 1100,
+        "description": "A high-end phone with stunning camera features and performance.",
+        "specification": [
+            "6.6-inch OLED display",
+            "Kirin 9000",
+            "50MP ultra vision camera",
+            "4500mAh battery",
+            "Wireless charging"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "id": "A001",
+        "product_title": "Apple AirPods Pro",
+        "product_image": "https://i.ibb.co.com/nQLnvkj/A-1.jpg",
+        "category": "Accessories",
+        "price": 250,
+        "description": "Wireless earphones with noise cancellation and spatial audio.",
+        "specification": [
+            "Active Noise Cancellation",
+            "Transparency mode",
+            "Up to 24 hours of battery life",
+            "Spatial audio"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "id": "A002",
+        "product_title": "Samsung Galaxy Buds 2",
+        "product_image": "https://i.ibb.co.com/N7WXcs9/A-2.jpg",
+        "category": "Accessories",
+        "price": 150,
+        "description": "True wireless earbuds with balanced sound and comfort.",
+        "specification": [
+            "Balanced sound",
+            "Active Noise Cancellation",
+            "Up to 20 hours of playtime",
+            "IPX2 water resistance"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "id": "A003",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/dJbG0r9/A-3.jpg",
+        "category": "Accessories",
+        "price": 400,
+        "description": "Premium noise-canceling headphones with superior sound quality.",
+        "specification": [
+            "Industry-leading noise cancellation",
+            "30-hour battery life",
+            "Touch controls",
+            "Hi-Res audio"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "id": "A004",
+        "product_title": "JBL Charge 5",
+        "product_image": "https://i.ibb.co.com/KNzfckY/A-4.jpg",
+        "category": "Accessories",
+        "price": 180,
+        "description": "Portable Bluetooth speaker with powerful sound and long battery life.",
+        "specification": [
+            "20 hours of playtime",
+            "IP67 waterproof",
+            "Built-in power bank",
+            "PartyBoost compatibility"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "id": "S001",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/2n5L8ZH/S-1.webp",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "Advanced health features and always-on display.",
+        "specification": [
+            "Always-On Retina display",
+            "Blood Oxygen & ECG apps",
+            "Water resistant to 50m",
+            "Fall detection",
+            "Up to 18 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "id": "S002",
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/CsgkT2t/S-2.jpg",
+        "category": "Smart Watches",
+        "price": 279,
+        "description": "A smart watch with advanced health monitoring and fitness tracking.",
+        "specification": [
+            "1.4-inch AMOLED display",
+            "Advanced sleep and wellness tracking",
+            "GPS built-in",
+            "50m water resistant",
+            "Up to 40 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "id": "S003",
+        "product_title": "Garmin Forerunner 955",
+        "product_image": "https://i.ibb.co.com/Wgd8XnB/S-3.jpg",
+        "category": "Smart Watches",
+        "price": 500,
+        "description": "A smartwatch focused on fitness and running metrics.",
+        "specification": [
+            "1.3-inch display",
+            "Heart rate and GPS tracking",
+            "VO2 max tracking",
+            "Up to 15 days battery life",
+            "Water resistant"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "id": "S004",
+        "product_title": "Fitbit Versa 4",
+        "product_image": "https://i.ibb.co.com/kJh0Cr3/S-4.jpg",
+        "category": "Smart Watches",
+        "price": 229,
+        "description": "Lightweight smartwatch with advanced fitness tracking features.",
+        "specification": [
+            "Heart rate monitor",
+            "Sleep tracking",
+            "20 exercise modes",
+            "Up to 6 days battery life",
+            "Water resistant"
+        ],
+        "availability": true,
+        "rating": 4.5
+    }
+
+
+]
